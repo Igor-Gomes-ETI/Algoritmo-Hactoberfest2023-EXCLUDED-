@@ -45,8 +45,8 @@ Este ano, os primeiros 40.000 participantes que concluírem com sucesso o desafi
 ## Regras para contribuir com este repositório
 
 -  Após fazer o Fork crie uma pasta com seu nome de usuário
--  Dentro da pasta com seu nome de usuário deixe seu código em .py (Python)
--  Junto ao código deixe um arquivo .md com o enunciado do o problema que está sendo resolvido
+-  Dentro da pasta com seu nome de usuário deixe seu código (NÃO HÁ EXIGÊNCIA DA LINGUAGEM USADA)
+-  Nomei o arquivo com o nome da questão (Ex.: questao1.js)
 -  Não esqueça de passar no arquivo CONTRIBUTING.md para deixar sua assinatura de contribuidor
 
 Exemplo de contribuição: [exemplo-wizardigor](https://github.com/wizardigor/)
