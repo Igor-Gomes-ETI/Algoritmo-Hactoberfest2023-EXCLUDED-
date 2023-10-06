@@ -49,7 +49,7 @@ Este ano, os primeiros 40.000 participantes que concluírem com sucesso o desafi
 -  Nomei o arquivo com o nome da questão (Ex.: questao1.js)
 -  Não esqueça de passar no arquivo CONTRIBUTING.md para deixar sua assinatura de contribuidor
 
-Exemplo de contribuição: [exemplo-wizardigor](https://github.com/wizardigor/)
+Exemplo de contribuição: [exemplo-wizardigor](https://github.com/wizardigor/Algoritmo-Hactoberfest2023/tree/main/wizardigor)
 
 ## How to do contributions 
 
